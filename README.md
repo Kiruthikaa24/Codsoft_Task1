@@ -24,10 +24,10 @@ It responds to greetings, jokes, motivational quotes, time queries, and more, wh
 ---
 
 ## Technologies Used
-- **Python** (Core Logic)  
-- **Regex** (Pattern Matching for Intent Detection)  
-- **Time module** (for showing current time)  
-- **Random module** (for random joke/quote selection)  
+- **Python** 
+- **Regex**  
+- **Time module**
+- **Random module** 
 
 ---
 
