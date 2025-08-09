@@ -8,7 +8,7 @@ It responds to greetings, jokes, motivational quotes, time queries, and more, wh
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 ### Features
 - Responds to user greetings and introductions  
